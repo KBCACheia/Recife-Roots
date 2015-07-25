@@ -1,0 +1,23 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.diegobonfim.razesdorecife.TreeInfo">
+
+    <!--<item android:id="@+id/action_camera"
+        android:icon="@android:drawable/ic_menu_camera"
+        android:title="Tire uma foto"
+        app:showAsAction="always"/>-->
+
+    <item android:id="@+id/action_quiz"
+        android:title="QUIZ"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/menu_share"
+        app:showAsAction="always"
+        android:icon="@android:drawable/ic_menu_share"
+        android:title="Compartilhe"
+        android:actionProviderClass=
+            "android.widget.ShareActionProvider" />
+
+</menu>

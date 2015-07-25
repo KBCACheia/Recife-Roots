@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Raízes do Recife</string>
+    <string name="title_activity_maps">Raízes do Recife</string>
+    <string name="title_activity_tree_info">TreeInfo</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_quiz">quiz</string>
+</resources>
